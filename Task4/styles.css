@@ -1,0 +1,46 @@
+table,
+td,
+th {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table {
+  border: 2px solid black;
+  align-self: center;
+  margin: auto;
+  /*box-shadow: 3px 3px 3px 3px #888888;*/
+  /*background-color: rgb(175, 223, 252);*/
+}
+table:hover {
+  box-shadow: 3px 3px 3px 3px #888888;
+}
+
+td {
+  padding: 10px;
+}
+
+th {
+  height: 40px;
+  width: 90px;
+}
+
+div {
+  position: relative;
+  margin: auto;
+  width: 1000px;
+  height: 450px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+tr:hover {
+  background-color: lightblue;
+}

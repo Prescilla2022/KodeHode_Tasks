@@ -1,0 +1,42 @@
+div {
+  border-style: solid;
+  margin-top: 20px;
+  border-radius: 5px;
+  /*background-color: rgb(206, 200, 200);*/
+}
+.heading {
+  background-color: rgb(200, 173, 224);
+  color: black;
+}
+h2 {
+  color: rebeccapurple;
+  background-color: azure;
+}
+body {
+  text-align: center;
+}
+.example {
+  font-weight: bold;
+  color: green;
+  border-style: none;
+  background-color: azure;
+}
+hr {
+  color: bold brown;
+}
+kbd {
+  border-style: solid;
+  border-color: black;
+  background-color: bisque;
+  padding: 10px;
+  box-shadow: 2px;
+  border-radius: 5px;
+}
+.ex {
+  color: brown;
+}
+img {
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+}

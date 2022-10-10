@@ -1,0 +1,132 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.8em;
+  transition: width 5s, height 5s;
+  transition-duration: 5s;
+}
+
+.img1 {
+  background-image: url("Images/chennai1.jpg");
+  min-height: 100%;
+}
+
+.img2 {
+  background-image: url("Images/ajanta.jpg");
+  min-height: 400px;
+}
+
+.img3 {
+  background-image: url("Images/image5.jpg");
+  min-height: 400px;
+}
+
+.img1,
+.img2,
+.img3 {
+  position: relative;
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+section {
+  text-align: center;
+  padding: 30px 80px;
+}
+
+.light {
+  background-color: white;
+  opacity: 0.5;
+}
+
+.dark {
+  background-color: grey;
+  color: white;
+  opacity: 0.5;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-size: 30px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.ptext,
+.border {
+  background-color: #111;
+  color: #fff;
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+  transition: width 4s, height 6s;
+  transition-delay: 1s;
+}
+
+.ptext,
+.border,
+.border-trans {
+  background-color: transparent;
+}
+
+p {
+  font-weight: 600;
+  font-family: "Dancing Script", cursive;
+}
+h2 {
+  font-family: "Source Serif Pro", serif;
+}
+.explore {
+  display: flex;
+  margin-top: 50px;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-bottom: 300px;
+  height: 200px;
+  width: 200px;
+  column-gap: 10px;
+  text-shadow: 10px;
+}
+.explore-img {
+  border-radius: 5px;
+  width: 200px;
+  height: 200px;
+  box-shadow: 4px 8px 0 rgb(38, 35, 35);
+  transition: width 2s, height 4s;
+}
+
+.explore-img:hover {
+  width: 300px;
+  height: 300px;
+}
+
+.ptext:hover {
+  font-size: 80px;
+
+  transition-duration: 5s;
+}
+.border:hover {
+  font: size 35px;
+  transition-duration: 5s;
+}
+
+.h2-img {
+  color: white;
+  font-size: 70px;
+  font-weight: 900;
+  font-family: "Dancing Script", cursive;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-bottom: 50px;
+  margin-top: 0;
+  padding-top: 250px;
+}
