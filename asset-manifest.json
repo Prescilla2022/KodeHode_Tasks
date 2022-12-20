@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Prescilla_Portfolio/static/css/main.c38f7108.css",
+    "main.js": "/Prescilla_Portfolio/static/js/main.81d636ef.js",
+    "static/media/WeatherApp.png": "/Prescilla_Portfolio/static/media/WeatherApp.f1e978b0aaec776bc993.png",
+    "static/media/imagegallery.png": "/Prescilla_Portfolio/static/media/imagegallery.7c13cf5619d42f5dbfc1.png",
+    "static/media/ToDo.png": "/Prescilla_Portfolio/static/media/ToDo.6068e6ad4bcabc9e3b3d.png",
+    "static/media/roll_dice.png": "/Prescilla_Portfolio/static/media/roll_dice.1d85b4f6ba9b8504cd47.png",
+    "static/media/pokemon.png": "/Prescilla_Portfolio/static/media/pokemon.50290f042a42136f48fd.png",
+    "static/media/drumkit.png": "/Prescilla_Portfolio/static/media/drumkit.d6025ffa5fc5a4f7281c.png",
+    "static/media/background.jpg": "/Prescilla_Portfolio/static/media/background.d81b3bb3cc7799f8a5b8.jpg",
+    "static/media/call.png": "/Prescilla_Portfolio/static/media/call.6c464b38b79a168e94c9.png",
+    "index.html": "/Prescilla_Portfolio/index.html",
+    "main.c38f7108.css.map": "/Prescilla_Portfolio/static/css/main.c38f7108.css.map",
+    "main.81d636ef.js.map": "/Prescilla_Portfolio/static/js/main.81d636ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c38f7108.css",
+    "static/js/main.81d636ef.js"
+  ]
+}
